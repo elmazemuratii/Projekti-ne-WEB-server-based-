@@ -1,0 +1,1 @@
+Udhezimet e ekzekutimit
