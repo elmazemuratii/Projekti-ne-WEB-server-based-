@@ -39,18 +39,20 @@ Ky projekt është realizuar **pa databazë**, duke përdorur **Sessions dhe Coo
 ---
 
 ## Struktura e Projektit
+
+```
 /local-events-hobby-finder
 │
 ├── /classes
-│ ├── Event.php
-│ ├── PremiumEvent.php
-│ └── User.php
+│   ├── Event.php
+│   ├── PremiumEvent.php
+│   └── User.php
 │
 ├── /includes
-│ ├── header.php
-│ ├── nav.php
-│ ├── footer.php
-│ └── auth.php
+│   ├── header.php
+│   ├── nav.php
+│   ├── footer.php
+│   └── auth.php
 │
 ├── index.php
 ├── login.php
@@ -61,8 +63,8 @@ Ky projekt është realizuar **pa databazë**, duke përdorur **Sessions dhe Coo
 ├── my-events.php
 ├── admin.php
 ├── style.css
-└── README.md           
----
+└── README.md
+```
 
 ## Udhëzime për Ekzekutim
 
